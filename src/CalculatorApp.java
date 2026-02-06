@@ -11,7 +11,7 @@ public class CalculatorApp {
         num1 = sc.nextDouble();
         num2 = sc.nextDouble();
  
-        System.out.println("Enter the operator (+, -, *, /):");
+        System.out.println("Enter the operator (+, -, *):");
         char operator = sc.next().charAt(0);
  
         double result;
